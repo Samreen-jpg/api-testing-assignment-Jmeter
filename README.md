@@ -1,4 +1,4 @@
-# Assignment No. 5 – API Testing with JMeter
+# API Testing with JMeter
 
 ## Project Overview
 This project demonstrates **API testing using Apache JMeter**, covering **CRUD operations** (Create, Read, Update, Delete) along with **CSV-based data-driven testing**. The tests are executed against the **RESTCountries API** to validate typical CRUD workflows.
